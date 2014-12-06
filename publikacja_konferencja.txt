@@ -1,15 +1,16 @@
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
-Autor: Stanislaw Kowalski, Aleksandra Pawlik
+Autor: Stanislaw Kowalski, Aleksandra Pawlik, Janek Kowalski
 
 Abstrakt:
 Do napisania pozniej
 
 Dane:
-Jeszcze ich nie ma. generuja sie.
-Analiza
-Wnioski
+Nasze wspolne dane
 
+Analiza
+
+Wnioski
+(to napisze Janek)  
 Bibliografia
-....
